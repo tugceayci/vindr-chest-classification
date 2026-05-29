@@ -34,7 +34,7 @@ project/
 ## Team Members
 - Tuğçe Aycı
 - ...
-- ...
+- Esra Alkış
 
 ## Planned Workflow
 1. Exploratory Data Analysis (EDA)
