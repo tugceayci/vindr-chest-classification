@@ -33,7 +33,7 @@ project/
 
 ## Team Members
 - Tuğçe Aycı
-- ...
+- Ayça Dilnaz Aktekin
 - Esra Alkış
 
 ## Planned Workflow
